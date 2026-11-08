@@ -1,16 +1,16 @@
-## Hi there 👋
+## Milena Webb
 
-<!--
-**milenawebb/milenawebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I find problems worth solving and build the products that fix them.
 
-Here are some ideas to get you started:
+Most of what I ship is SaaS for small businesses and membership organizations: scheduling and operations platforms, workflow automation, multi-tenant systems with real permission models. I handle the whole thing, from talking to users through to the database, the integrations and the launch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fifteen years of web development and client work before this. The AI tooling changed how fast I build. It did not change who decides what to build.
+
+**Products**
+- [OpenSked](https://opensked.com) — scheduling and operations platform for notary and signing services
+- [Revsi](https://revsi.app) — automated Google review requests, triggered on job completion
+- [ClubTree](https://clubtree.app) — club management platform for membership organizations
+- [Yay! Books](https://yaybooks.app) — guided bookkeeping for small business owners
+
+**Elsewhere**
+[milenawebb.com](https://milenawebb.com) · [Webb Consulting](https://webb-consulting.net) · [fifthexit](https://fifthexit.com) · [LinkedIn](https://www.linkedin.com/in/milena-webb/)
